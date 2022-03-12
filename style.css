@@ -3,8 +3,13 @@
 }
 .quem-somos{
     background-color: aqua;
+    padding-top: 5cm;
     
 }
 .margin{
-    padding-top: 30px;
+    padding-top: 40px;
+}
+
+.paceiros{
+    background-color: aquamarine;
 }
